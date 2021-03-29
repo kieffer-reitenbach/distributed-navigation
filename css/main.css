@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img {
+  width: 2rem;
+}
+
+p, nav {
+  font-size: 1.125rem;
+}
+
+@media only screen and (min-width: 960px) {
+
+}
